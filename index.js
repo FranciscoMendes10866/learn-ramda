@@ -1,5 +1,8 @@
 const R = require("ramda");
 
+/**
+ * Users Array JSON
+ */
 const users = require("./data/users.json");
 
 /**
