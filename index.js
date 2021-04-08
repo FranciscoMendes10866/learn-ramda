@@ -1,6 +1,6 @@
 const R = require("ramda");
 
-const users = require("./data.json");
+const users = require("./data/users.json");
 
 /**
  * Get last element of the users array
